@@ -236,6 +236,7 @@ We will now define our own function and make use of it as a word template. Type 
 
 ```cpp
 #include <iostream>
+#include <string>
 using namespace std;
 
 void greet(string person){
